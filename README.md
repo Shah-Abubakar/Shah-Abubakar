@@ -18,7 +18,9 @@
 | Project | What it does | Live Demo |
 |:--------|:-------------|:----------|
 | **PROJECT-KAIZEN** | Smart and structured learning with strategies | [🔗 View Demo](https://real-portfolio-vkzy.vercel.app) |
-| **REAL-PORTFOLIO** | My personal portfolio showcasing all my work | [🔗 View Demo](https://real-portfolio-vkzy.vercel.app) |
+| **PORTFOLIO** | My personal portfolio showcasing all my work | [🔗 View Demo](https://real-portfolio-vkzy.vercel.app) |
+| **HORIZON** | Find and connect more student founders like yourself | [🔗 View Demo](Not deployed yet) |
+
 
 > More projects coming soon.
 
