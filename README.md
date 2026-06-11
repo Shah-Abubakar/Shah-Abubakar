@@ -17,7 +17,7 @@
 
 | Project | What it does | Live Demo |
 |:--------|:-------------|:----------|
-| **PROJECT-KAIZEN** | 20-week study planner with chapter-wise progress tracking | [🔗 View Demo](https://real-portfolio-vkzy.vercel.app) |
+| **PROJECT-KAIZEN** | Smart and structured learning with strategies | [🔗 View Demo](https://real-portfolio-vkzy.vercel.app) |
 | **REAL-PORTFOLIO** | My personal portfolio showcasing all my work | [🔗 View Demo](https://real-portfolio-vkzy.vercel.app) |
 
 > More projects coming soon.
