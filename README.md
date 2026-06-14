@@ -7,7 +7,7 @@
 ##  About Me
 
 -  **Goal:** Bachelor's in Artificial Intelligence & Machine Learning
--  **Currently building:** HORIZON: STUDENT FOUNDERS
+-  **Currently building:** Training ML models
 -  **Learning:** n8n automation, training of basic ML models
 -  **Mindset:** Practical thinker. I don't just learn, I build.
 
