@@ -18,7 +18,7 @@
 | Project | What it does | Live Demo |
 |:--------|:-------------|:----------|
 | **PROJECT-KAIZEN** | Smart and structured learning with strategies | [🔗 View Demo](https://real-portfolio-vkzy.vercel.app) |
-| **PORTFOLIO** | My personal portfolio showcasing all my work | [🔗 View Demo](https://real-portfolio-vkzy.vercel.app) |
+| **PORTFOLIO** | My personal portfolio showcasing all my work | [🔗 View Demo](https://portfolio2-five-orcin.vercel.app/) |
 | **HORIZON** | Find and connect more student founders like yourself | Not deployed yet |
 
 
@@ -28,7 +28,7 @@
 
 ##  Connect with Me
 
-- **Portfolio:** [real-portfolio-vkzy.vercel.app](https://real-portfolio-vkzy.vercel.app)
+- **Portfolio:** [real-portfolio-vkzy.vercel.app](https://portfolio2-five-orcin.vercel.app/)
 - **Email:** cet.abubakar77@gmail.com
 - **Location:** Mumbai, India
 
